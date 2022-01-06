@@ -1,6 +1,6 @@
 module.exports = {
-	title: '源码分析博客',
-	description: '源码分析',
+	title: '哪吒源码分析博客',
+	description: '哪吒源码分析博客',
 	base: '/learn-source-analysis/',
 	head: [
 		['meta', {
@@ -16,7 +16,6 @@ module.exports = {
 		['@vuepress/back-to-top'],
 		['@vuepress/medium-zoom'],
 		['@vuepress/nprogress'],
-		// ['autobar']
 	],
 	themeConfig: {
 		nav: [{
