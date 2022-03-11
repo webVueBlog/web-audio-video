@@ -1,18 +1,8 @@
-# 哪吒源码分析博客
+# audio && video
 
-> 点击勘误[issues](https://github.com/learn-docs/learn-source-analysis/issues)，哪吒感谢大家的阅读
+> 点击勘误[issues](https://github.com/webVueBlog/web-audio-video/issues)，感谢大家的阅读
 
-## 学前必读
 
-哪吒希望能为开发人员提供最大程度的愉悦开发体验。提供便捷的阅读文档，帮助前端开发小团体高效率的工作进度，并维护本站learn-source-analysis文档。
-
-## 感谢指正
-
-指正不胜感激，无以回报。
-
-## 声明
-
-学习文档，仅适合本人食用！！!
 
 ## 勘误及提问
 
